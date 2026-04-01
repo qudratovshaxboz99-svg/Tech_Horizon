@@ -1,0 +1,21 @@
+{
+  "name": "tech-horizon",
+  "version": "1.0.0",
+  "description": "An educational website about innovative technologies",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "technology",
+    "education",
+    "static-site"
+  ],
+  "author": "Shakhbos Kudratov",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
